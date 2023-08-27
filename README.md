@@ -1,4 +1,4 @@
-# FoodDelivery
+# FoodDelivery Application
 
 •	Signup and Login feature : Implemented JSON Tokens (JWT) and utilized bcrypt.js to ensure secure authentication and password encryption. 
 
